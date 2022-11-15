@@ -1,0 +1,54 @@
+body{
+    background: #dcf6fa;
+    color: #ffffff;
+}
+
+.divFormu {
+    margin: 1rem auto 1rem auto;
+    border-radius: 1rem;
+    border-width: 0 10px 16px 0;
+    border-style: solid;
+    border-color: #330179;
+    box-shadow: 1px 1px 10px 10px rgba(0, 180, 204, 0.77) !important;
+}
+
+.card-body{
+    background: #1e0033;
+    color: #ffffff;
+}
+
+.city{
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.date {
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.container-img {
+    background-color: rgba(0, 34, 255, 0.03);
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.6);
+    border-radius: 100rem;
+    cursor: pointer;
+    color: black;
+
+    font-size: 80px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather{
+    font-size: 18px;
+}
+
+.low-high {
+    font-size: 16px;
+}
